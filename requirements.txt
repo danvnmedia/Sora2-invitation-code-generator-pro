@@ -1,0 +1,3 @@
+# Sora2 Invitation Code Generator Pro
+# This project uses only Python standard library
+# Python 3.6+ required

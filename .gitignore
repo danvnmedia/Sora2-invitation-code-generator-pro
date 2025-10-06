@@ -1,5 +1,6 @@
 # Generated invitation code files
 *.txt
+!requirements.txt
 *.csv
 *.json
 sora2_codes_*
